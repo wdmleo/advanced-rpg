@@ -1,0 +1,25 @@
+.main {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    top: 0;
+    left: 0;
+    background-color: #2c3e50;
+}
+
+.main-page {
+    position: absolute;
+    top: 2vh;
+    bottom: 2vh;
+    left: 2vw;
+    right: 2vw;
+}
+
+.main-page button {
+    
+}
+
+.btn-blue {
+    background-color: #2980b9;
+}
+
